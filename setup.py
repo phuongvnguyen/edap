@@ -5,15 +5,15 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="edap",
-    version="0.1.1",
+    version="0.1.3",
     author="Phuong V. Nguyen (Mr)",
     author_email="phuongnv@iuj.ac.jp",
     description="A small package for EAD",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/phuongvnguyen/edap",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://github.com/phuongvnguyen/edap",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
