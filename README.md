@@ -6,7 +6,7 @@
 One can use **edap** locally by using one of two ways as follows.
 
 ```
-pip install -i https://test.pypi.org/simple/ edap==0.0.1
+pip install -i https://test.pypi.org/simple/ edap==0.1.3
 ```
 
 ```
