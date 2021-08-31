@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: edap
+Version: 0.1.1
+Summary: A small package for EAD
+Home-page: https://github.com/pypa/sampleproject
+Author: Phuong V. Nguyen (Mr)
+Author-email: phuongnv@iuj.ac.jp
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# edap 0.0.1
+
+### What is edap?
+**edap** stands for **E**xploratory **d**ata **a**nalysis  **p**huong, which has beeen developed and maintained by Phuong V. Nguyen. It is an open-source, low-code library in Python.
+
+One can use **edap** locally by using one of two ways as follows.
+
+```
+pip install -i https://test.pypi.org/simple/ edap==0.0.1
+```
+
+```
+https://github.com/phuongvnguyen/edap.git
+```
+
+

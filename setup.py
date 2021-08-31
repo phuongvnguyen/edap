@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="edap",
-    version="0.0.1",
+    version="0.1.1",
     author="Phuong V. Nguyen (Mr)",
     author_email="phuongnv@iuj.ac.jp",
     description="A small package for EAD",
