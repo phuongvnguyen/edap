@@ -3,6 +3,7 @@ README.md
 pyproject.toml
 setup.py
 src/edap/__init__.py
+src/edap/data_explorer.py
 src/edap/dataset_calling.py
 src/edap.egg-info/PKG-INFO
 src/edap.egg-info/SOURCES.txt

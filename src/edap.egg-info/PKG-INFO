@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: edap
-Version: 0.1.1
+Version: 0.1.2
 Summary: A small package for EAD
-Home-page: https://github.com/pypa/sampleproject
+Home-page: https://github.com/phuongvnguyen/edap
 Author: Phuong V. Nguyen (Mr)
 Author-email: phuongnv@iuj.ac.jp
 License: UNKNOWN
-Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Project-URL: Bug Tracker, https://github.com/phuongvnguyen/edap
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
