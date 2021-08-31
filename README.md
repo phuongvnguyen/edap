@@ -10,5 +10,5 @@ pip install -i https://test.pypi.org/simple/ edap==0.1.3
 ```
 
 ```
-https://github.com/phuongvnguyen/edap.git
+git clone https://github.com/phuongvnguyen/edap.git
 ```
